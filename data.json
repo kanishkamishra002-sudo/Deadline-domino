@@ -1,0 +1,56 @@
+{
+  "settings": {
+    "hoursPerDay": 2,
+    "startDate": "2026-10-16"
+  },
+  "tasks": [
+    {
+      "id": "sample-1",
+      "title": "Web Stack assignment",
+      "course": "Web Stack",
+      "dueDate": "2026-10-18",
+      "hours": 4,
+      "priority": "High"
+    },
+    {
+      "id": "sample-2",
+      "title": "C programming practice",
+      "course": "Programming in C",
+      "dueDate": "2026-10-19",
+      "hours": 2,
+      "priority": "Medium"
+    },
+    {
+      "id": "sample-3",
+      "title": "Prepare presentation slides",
+      "course": "Communication",
+      "dueDate": "2026-10-20",
+      "hours": 3,
+      "priority": "High"
+    },
+    {
+      "id": "sample-4",
+      "title": "Revise JavaScript basics",
+      "course": "Web Stack",
+      "dueDate": "2026-10-21",
+      "hours": 2,
+      "priority": "Low"
+    },
+    {
+      "id": "task-1792331235932-6b012",
+      "title": "test assignment",
+      "course": "webstack",
+      "dueDate": "2026-10-21",
+      "hours": 2,
+      "priority": "High"
+    },
+    {
+      "id": "task-1792331412779-84c89",
+      "title": "interview",
+      "course": "academic",
+      "dueDate": "2026-10-30",
+      "hours": 4,
+      "priority": "Low"
+    }
+  ]
+}
